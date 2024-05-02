@@ -11,4 +11,4 @@ La "data - ora" di inizio: "17/04/2024 - 11:11:11"
     c) del tempo impiegato nelle singole attività (sia Professionali sia Tempo libero)
     d) creazione di nuovi progetti e pianificazione per micro e macro obiettivi
     e) gestione utenze del programma
-
+    f) dirette streaming e video/immagini caricati nel proprio profilo con possibilità di guadagno da parte degli utenti per i servizi e i prodotti caricati.
