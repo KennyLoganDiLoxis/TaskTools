@@ -79,11 +79,11 @@ def connect_to_database():
         # Modifica questi valori con le credenziali del tuo database MySQL
         conn = pymysql.connect(
             host="localhost",
-            user="gm01",
-            password="Mcfarland@2024",
-            database="eva01",
-            port=3366,
-            charset='utf8mb4'
+            user="",
+            password="",
+            database="",
+            port=,
+            charset=''
         )
         print("Connessione al database MySQL riuscita!")
         return conn, None  # Restituisce la connessione e nessun errore
